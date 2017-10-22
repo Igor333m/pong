@@ -1,5 +1,6 @@
 # Classic Pong Game
 This game is one of projects from Rice University online course.
+![Pong screenshot](pong.png)
 ## Running the game
 This game uses codeskulptor interpreter to work (http://www.codeskulptor.org) Just copy and paste pong.py code to interpreter and click run!
 
